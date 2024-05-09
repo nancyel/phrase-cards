@@ -112,8 +112,8 @@ export default function Home() {
           Hit the <strong>space bar</strong> to advance to the next item.
         </p>
         <p>
-          Press the <strong>arrow keys</strong> to navigate to the previous or
-          next item.
+          Press the <strong>arrow keys</strong> (or swipe if you're on your
+          phone) to navigate to the previous or next item.
         </p>
       </div>
     </div>
