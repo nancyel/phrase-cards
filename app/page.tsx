@@ -69,7 +69,7 @@ export default function Home() {
 
   return !page ? (
     <div className="flex flex-col items-center justify-center min-h-screen">
-      <div className="text-2xl mb-5">
+      <div className="text-xl md:text-2xl mb-5 mx-auto px-6 lg:px-8 max-w-screen-lg">
         How many lines would you like to review?
       </div>
       <IntegerInputForm page={page} setPage={setPage} />
